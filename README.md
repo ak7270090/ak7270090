@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ak7270090&label=Profile%20views&color=0e75b6&style=flat" alt="ak7270090" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ak7270090" alt="ak7270090" /></a> </p>
+
 
 - 💬 Ask me about **full stack**
 
@@ -23,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ak7270090&show_icons=true&locale=en" alt="ak7270090" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ak7270090&" alt="ak7270090" /></p>
+
