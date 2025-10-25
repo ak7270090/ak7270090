@@ -26,3 +26,20 @@ I have experience in monitoring with Prometheus, logging, and distributed tracin
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
+
+
+<h3 align="left">Coding Profiles:</h3>
+<p align="left">
+  <a href="https://leetcode.com/u/ak7270090/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="30" height="30"/>
+  </a>
+  &nbsp;
+  <a href="https://www.codechef.com/users/ak7270090" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" height="30"/>
+</a>
+  &nbsp;
+  <a href="https://codeforces.com/profile/aman_kumar7270090" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codeforces.svg" alt="Codeforces" width="30" height="30"/>
+  </a>
+</p>
+
