@@ -82,8 +82,8 @@ Strong in **Dynamic Programming**, **Binary Search**, **Graphs**, **Greedy**, an
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/ak7270090/huddle">🎙️ Huddle</a> &nbsp; <img src="https://img.shields.io/badge/🏆%20Hackathon%20Winner-3rd%20Place-gold?style=flat-square"/></h3>
-      <p>Real-time meeting assistant that transcribes live speech, detects grammatical errors, and scores facial expressions — the feature no Zoom or Meet has.</p>
+      <h3><a href="https://github.com/ak7270090/video-meet">🎙️ Real-Time Video Meet Platform</a> &nbsp; <img src="https://img.shields.io/badge/🏆%20Hackathon%20Winner-3rd%20Place-gold?style=flat-square"/></h3>
+      <p>Real-time meeting assistant that transcribes live speech, detects grammatical errors, and generates meeting summary — the feature no Zoom or Meet has.</p>
       <p>Built in 72 hours at <strong>LNMHacks</strong> among 350+ participants. Secured <strong>3rd place &amp; $100 prize</strong>.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
