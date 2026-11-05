@@ -1,63 +1,53 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aman%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Builder%20%7C%20Competitive%20Programmer&descAlignY=58&descColor=a0a0c0&animation=fadeIn" width="100%"/>
-
-</div>
-
----
+<p align="center"><img src="assets/header.svg" alt="Aman Kumar: Software Engineer | AI/ML Builder | Competitive Programmer" width="100%"></p>
 
 ## 👋 About Me
 
-Software Engineer who enjoys building things end to end — from designing distributed systems and microservices to wiring up agentic AI pipelines. I work across the full backend stack: async workers, event-driven architectures, cloud infrastructure, and LLM-powered automation. Equally comfortable deep in systems design or experimenting with RAG pipelines and multi-agent workflows.
+I build backend systems and AI agents end to end, from distributed workers and event queues to voice agents and LLM inference. When I'm not shipping, I'm solving competitive programming problems.
 
-When I'm not shipping, I'm solving competitive programming problems.
-
-- 🏢 **SWE @ E2E Networks** — Backend · Distributed Systems · Agentic AI
-- 🤖 **Into:** LLM Orchestration · RAG · LangGraph · Multi-agent Systems
-- ⚙️ **Stack:** Python · Django · Kubernetes · RabbitMQ · Celery · AWS
+- 🏢 **SWE @ E2E Networks:** Backend · Distributed Systems · Agentic AI
+- 🤖 **Into:** Voice Agents · MCP · LangGraph · RAG · LLM Inference
+- ⚙️ **Stack:** Python · Django · FastAPI · Kubernetes · RabbitMQ · Temporal · AWS
 - 🏆 **Knight on LeetCode** · **4★ CodeChef** · **Specialist on Codeforces**
 - 📫 **Reach me:** [kumaraman.sde@gmail.com](mailto:kumaraman.sde@gmail.com) · [LinkedIn](https://linkedin.com/in/aman-kumar727)
 
----
+## 🚀 Featured Projects
+
+Click a card to open the project. Try two of them live: [Ringvi](https://ringvi.vercel.app) and [Journey Engine](https://nudgio.vercel.app).
+
+<p align="center"><a href="https://github.com/ak7270090/voice-agent"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/ringvi-dark.svg"><img src="assets/projects/ringvi-light.svg" alt="Ringvi: AI Phone Agents Without Code: Build an AI phone agent in the browser without writing code. Test it, put it on a phone number, and see how every call went." width="100%"></picture></a></p>
+
+<p align="center"><a href="https://github.com/ak7270090/user-engagement"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/journey-engine-dark.svg"><img src="assets/projects/journey-engine-light.svg" alt="Journey Engine: Watches what each shopper does on a site and sends the right message at the right moment. Marketing teams build these journeys by drag and drop." width="49.4%"></picture></a> <a href="https://github.com/ak7270090/ai-oncall-agent"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/ai-oncall-agent-dark.svg"><img src="assets/projects/ai-oncall-agent-light.svg" alt="AI On-Call Agent: Ask in plain English when something breaks. It checks pods, logs, metrics and recent deployments, finds the real cause, and writes a short report." width="49.4%"></picture></a></p>
+
+<p align="center"><a href="https://github.com/ak7270090/inference-engine-from-scratch"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/inference-engine-dark.svg"><img src="assets/projects/inference-engine-light.svg" alt="LLM Inference Engine from Scratch: A server that runs an LLM for many users at once, built in plain PyTorch with the scheduling and memory techniques that production engines use." width="49.4%"></picture></a> <a href="https://github.com/ak7270090/mcp-server-scale"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/mcp-scaling-lab-dark.svg"><img src="assets/projects/mcp-scaling-lab-light.svg" alt="MCP Scaling Lab: The same MCP server built five ways, from a single process to a gateway with a queue, to see which setup holds up when you scale it." width="49.4%"></picture></a></p>
+
+<p align="center"><a href="https://github.com/ak7270090/video-meet"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/video-meet-dark.svg"><img src="assets/projects/video-meet-light.svg" alt="Real-Time Video Meet: A video meeting app that transcribes live speech, spots grammar mistakes, and writes a meeting summary. Won 3rd place at LNMHacks." width="49.4%"></picture></a> <a href="https://github.com/ak7270090/Real-time-Voice-AI-Orchestration"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/voice-ai-orchestration-dark.svg"><img src="assets/projects/voice-ai-orchestration-light.svg" alt="Voice AI Orchestration: Upload documents and talk to them out loud. It finds the answer in your files, replies by voice, and shows the sources." width="49.4%"></picture></a></p>
+
+<p align="center"><a href="https://github.com/ak7270090/graph-rag"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/graph-rag-dark.svg"><img src="assets/projects/graph-rag-light.svg" alt="Graph RAG: Turns documents into a knowledge graph, then compares graph, vector and combined search side by side." width="49.4%"></picture></a> <a href="https://github.com/ak7270090/dl-fundamentals"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/deep-learning-from-scratch-dark.svg"><img src="assets/projects/deep-learning-from-scratch-light.svg" alt="Deep Learning from Scratch: The core neural networks built step by step, from a single perceptron to an LSTM that predicts the next word." width="49.4%"></picture></a></p>
 
 ## 🛠️ Technical Skills
 
-### 🤖 AI / LLM
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logoColor=white)
-![RAG](https://img.shields.io/badge/Hybrid%20RAG-6C3483?style=for-the-badge&logoColor=white)
-![Vector DBs](https://img.shields.io/badge/Vector%20Databases-0078D4?style=for-the-badge&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-FF4500?style=for-the-badge&logoColor=white)
-
-### 💻 Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### ⚙️ Backend & Frameworks
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-
-### 🏗️ Infrastructure & DevOps
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![YugabyteDB](https://img.shields.io/badge/YugabyteDB-FF6B35?style=for-the-badge&logoColor=white)
-
----
+<table>
+  <tr>
+    <td><b>AI / LLM</b></td>
+    <td><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/> <img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=flat-square&logoColor=white" alt="LangGraph"/> <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logoColor=white" alt="MCP"/> <img src="https://img.shields.io/badge/LiveKit-FF6B35?style=flat-square&logoColor=white" alt="LiveKit"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/> <img src="https://img.shields.io/badge/Langfuse-0A60C9?style=flat-square&logoColor=white" alt="Langfuse"/> <img src="https://img.shields.io/badge/Hybrid%20RAG-6C3483?style=flat-square&logoColor=white" alt="Hybrid RAG"/> <img src="https://img.shields.io/badge/Vector%20Databases-0078D4?style=flat-square&logoColor=white" alt="Vector Databases"/> <img src="https://img.shields.io/badge/Agentic%20AI-FF4500?style=flat-square&logoColor=white" alt="Agentic AI"/></td>
+  </tr>
+  <tr>
+    <td><b>Languages</b></td>
+    <td><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/></td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" alt="Celery"/> <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/> <img src="https://img.shields.io/badge/Temporal-141414?style=flat-square&logoColor=white" alt="Temporal"/></td>
+  </tr>
+  <tr>
+    <td><b>Infrastructure</b></td>
+    <td><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/> <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible"/> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus"/> <img src="https://img.shields.io/badge/ELK%20Stack-005571?style=flat-square&logo=elasticstack&logoColor=white" alt="ELK Stack"/> <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP"/> <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure"/></td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/> <img src="https://img.shields.io/badge/YugabyteDB-FF6B35?style=flat-square&logoColor=white" alt="YugabyteDB"/></td>
+  </tr>
+</table>
 
 ## 🏆 Competitive Programming
 
@@ -74,61 +64,3 @@ When I'm not shipping, I'm solving competitive programming problems.
 </div>
 
 Strong in **Dynamic Programming**, **Binary Search**, **Graphs**, **Greedy**, and **Data Structures**.
-
----
-
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/ak7270090/video-meet">🎙️ Real-Time Video Meet Platform</a> &nbsp; <img src="https://img.shields.io/badge/🏆%20Hackathon%20Winner-3rd%20Place-gold?style=flat-square"/></h3>
-      <p>Real-time meeting assistant that transcribes live speech, detects grammatical errors, and generates meeting summary — the feature no Zoom or Meet has.</p>
-      <p>Built in 72 hours at <strong>LNMHacks</strong> among 350+ participants. Secured <strong>3rd place &amp; $100 prize</strong>.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/ak7270090/Real-time-Voice-AI-Orchestration">🎤 Real-time Voice AI Orchestration</a></h3>
-      <p>Upload documents and have a live voice conversation grounded in them. Voice in → STT → RAG retrieval → GPT-4 → voice out. Includes RAG source citations and live transcription.</p>
-      <p>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-        <img src="https://img.shields.io/badge/LiveKit-FF6B35?style=flat-square&logoColor=white"/>
-        <img src="https://img.shields.io/badge/ChromaDB-6C3483?style=flat-square&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/ak7270090/graph-rag">🕸️ Graph RAG</a></h3>
-      <p>Minimal Graph RAG that extracts a knowledge graph from documents and compares graph-only vs vector-only vs combined retrieval side by side.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white"/>
-        <img src="https://img.shields.io/badge/ChromaDB-6C3483?style=flat-square&logoColor=white"/>
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/ak7270090/dl-fundamentals">🧠 Deep Learning from Scratch</a></h3>
-      <p>Foundational DL architectures built from the ground up — Perceptron → ANN → CNN (MNIST) → RNN → LSTM for next-word prediction.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
-
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
-</div>
