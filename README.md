@@ -1,5 +1,3 @@
-<p align="center"><img src="assets/header.svg" alt="Aman Kumar: Software Engineer | AI/ML Builder | Competitive Programmer" width="100%"></p>
-
 ## 👋 About Me
 
 I build backend systems and AI agents end to end, from distributed workers and event queues to voice agents and LLM inference. When I'm not shipping, I'm solving competitive programming problems.
